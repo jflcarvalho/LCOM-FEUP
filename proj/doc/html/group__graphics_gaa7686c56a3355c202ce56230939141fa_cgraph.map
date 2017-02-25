@@ -1,0 +1,4 @@
+<map id="vg_drawLine" name="vg_drawLine">
+<area shape="rect" id="node2" href="$group__graphics.html#ga892617cb8032095caba84b6e26b57762" title="Changes the color of a pixel based on is coordinates. " alt="" coords="145,5,233,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga42f593e6656f1a978315aff02b1bcebf" title="Returns to default Minix 3 text mode (0x03: 25 x 80, 16 colors) " alt="" coords="158,56,221,83"/>
+</map>

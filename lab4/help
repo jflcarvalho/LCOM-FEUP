@@ -1,0 +1,22 @@
+int packets()
+Print the packets received from the mouse
+Terminate after processing the given number of packets
+Display the packets contents in a human friendly way (see
+Figure 1 of lab handout)
+Need to subscribe the mouse interrupts
+Upon an interrupt, read the byte from the OUT_BUF
+Subscribe the mouse interrupt with
+IRQ_EXCLUSIVE policy
+driver_receive() loop
+Should read only one byte per interrupt
+Should use:
+unsigned char packet[] to store the packet bytes
+unsgined short counter to keep track of byte number
+Synchronization Issues All 3 bytes must belong to the same packet
+Bit 3 of first byte of a packet is always set
+But this bit may also be set in other bytes of a packet
+Hints : No need to check the STAT_REG
+If the device is in Stream mode (the default) and has been enabled
+with an Enable (0xF4) command, then the host should disable the
+device with a Disable (0xF5) command before sending any other command.
+If a byte is left in the OUT_BUF ,the KBC will not generate further interrupts

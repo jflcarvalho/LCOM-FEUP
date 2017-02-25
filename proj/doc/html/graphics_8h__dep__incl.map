@@ -1,0 +1,8 @@
+<map id="graphics.h" name="graphics.h">
+<area shape="rect" id="node2" href="$_b_m_p_loaded_8c.html" title="BMPLoaded.c" alt="" coords="5,155,109,181"/>
+<area shape="rect" id="node3" href="$_b_m_p_loaded_8h.html" title="BMPLoaded.h" alt="" coords="201,80,305,107"/>
+<area shape="rect" id="node4" href="$game_8c.html" title="game.c" alt="" coords="134,155,199,181"/>
+<area shape="rect" id="node6" href="$menu_8c.html" title="menu.c" alt="" coords="310,155,375,181"/>
+<area shape="rect" id="node7" href="$graphics_8c.html" title="graphics.c" alt="" coords="380,80,463,107"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="main.c" alt="" coords="224,155,285,181"/>
+</map>

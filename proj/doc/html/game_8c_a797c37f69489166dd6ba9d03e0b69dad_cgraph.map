@@ -1,0 +1,42 @@
+<map id="test_game" name="test_game">
+<area shape="rect" id="node2" href="$_b_m_p_loaded_8c.html#ab75d3228ee3a08dc13cb96f324138868" title="Loads all bmps that are used to represent the blue hero. " alt="" coords="185,56,249,83"/>
+<area shape="rect" id="node6" href="$_b_m_p_loaded_8c.html#acc3731aa825281da6138fc440a017d1f" title="Loads all bmps that are used to represent the red hero. " alt="" coords="185,107,249,133"/>
+<area shape="rect" id="node7" href="$_b_m_p_loaded_8c.html#a68f1d5eb10fe7db6e11f7aa14b616d66" title="Loads all bmps that are used to represent balls. " alt="" coords="183,5,251,32"/>
+<area shape="rect" id="node8" href="$game_8c.html#a623851ac2f3115d6386126294485aabe" title="Resets Game Initial State. " alt="" coords="583,107,683,133"/>
+<area shape="rect" id="node10" href="$keyboard_8c.html#a039f21a8c8e14e897e4b2dc7d2b7f038" title="Subscribes and enables keyboard interrupts. " alt="" coords="150,917,283,944"/>
+<area shape="rect" id="node11" href="$keyboard_8c.html#a3507f17558a99c2f4b6d51ac408181ca" title="kbd_readStatusRegister" alt="" coords="345,917,507,944"/>
+<area shape="rect" id="node12" href="$uart_8c.html#a6d5cd546340ab0fa0f9fcd21ed0b1e4c" title="Subscribes UART. " alt="" coords="161,968,273,995"/>
+<area shape="rect" id="node13" href="$_b_m_p_loaded_8c.html#a155cff91f14e89e217e5fd002ad510ea" title="Writes on a seconday buffer a &quot;Background&quot; bmp that depends on the local time. " alt="" coords="174,613,259,640"/>
+<area shape="rect" id="node18" href="$_b_m_p_loaded_8c.html#a923f2c9330255b8641a5516f0a0a6021" title="Writes on a seconday buffer the lifes bmp´s of the Blue Hero. " alt="" coords="179,715,255,741"/>
+<area shape="rect" id="node19" href="$game_8c.html#adb357616b27983bd1b182f85943aebab" title="Draws time left in a secondary buffer. " alt="" coords="169,664,265,691"/>
+<area shape="rect" id="node21" href="$game_8c.html#af54fd9555cdc02ad37e482ae2c634706" title="Calculates and sets a ball position. " alt="" coords="381,208,471,235"/>
+<area shape="rect" id="node22" href="$game_8c.html#acc659f839fa377e0e52abb84a686070d" title="Handle blue hero position and check for colisions. " alt="" coords="387,259,465,285"/>
+<area shape="rect" id="node25" href="$uart_8c.html#aeab22775cdcbed20e4891cd4358e8885" title="Write a char to the Transmitter Holding Register. " alt="" coords="369,1019,483,1045"/>
+<area shape="rect" id="node27" href="$_b_m_p_loaded_8c.html#a1a18d5f84191ceb307326d22a007eb0f" title="Writes on a seconday buffer the lifes bmp´s of the Red Hero. " alt="" coords="166,537,267,564"/>
+<area shape="rect" id="node28" href="$game_8c.html#a7b24c26635acba99593006f11c5e5e14" title="Handle red hero position and check for colisions. " alt="" coords="387,309,465,336"/>
+<area shape="rect" id="node29" href="$game_8c.html#aeaafbea439e3887d79f0eb7c26cb9188" title="Checks if players won the game. " alt="" coords="166,436,267,463"/>
+<area shape="rect" id="node33" href="$group__graphics.html#ga56c5cf8a568cff737ff95520cbe6b405" title="Copies secondary buffer to main buffer. " alt="" coords="608,867,657,893"/>
+<area shape="rect" id="node35" href="$keyboard_8c.html#a14d55676cf1437230a48c884b4bcf974" title="kbd_readOutBuffer" alt="" coords="152,1171,281,1197"/>
+<area shape="rect" id="node36" href="$game_8c.html#a2e599b7dd24f942d8d92520d6c999214" title="Handles keyboard interruptions. " alt="" coords="153,1019,280,1045"/>
+<area shape="rect" id="node37" href="$uart_8c.html#a1400cb90e5ba388c2c46a2eef3b1fab3" title="Handles UART interruptions. " alt="" coords="136,1120,297,1147"/>
+<area shape="rect" id="node40" href="$uart_8c.html#acc1a1b2de2dca176ab0a6334ea2b7d84" title="Unsubscribes UART. " alt="" coords="153,1221,280,1248"/>
+<area shape="rect" id="node41" href="$keyboard_8c.html#a8eac4124a2307be0f90c236c07485c9a" title="Unsubscribes and disables keyboard interrupts. " alt="" coords="143,816,290,843"/>
+<area shape="rect" id="node3" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="383,5,469,32"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a7ed2abfd3a285dc818edbc0aa7edcfb8" title="Creates a non&#45;animated Sprite. " alt="" coords="377,56,475,83"/>
+<area shape="rect" id="node5" href="$graphics_8c.html#a9127a8ddf97211c34841c3cc1063f3c0" title="create_AnimatedSprite" alt="" coords="349,107,503,133"/>
+<area shape="rect" id="node9" href="$graphics_8c.html#aa128b49ffb392eaf125b5bd3914ff857" title="Gets Screen Horizontal Resolution. " alt="" coords="777,411,860,437"/>
+<area shape="rect" id="node14" href="$rtc_8c.html#adf6eba8d0a6d582d815254e207c2dc3e" title="Loads the time array with the current hours and minutes When this function is called: time[0] = hours..." alt="" coords="381,613,471,640"/>
+<area shape="rect" id="node15" href="$group__graphics.html#gaf03251605457b64d0c0ec63ad66900ba" title="Writes a bitmap in a given position on the screen, but on the secondary buffer. " alt="" coords="585,563,680,589"/>
+<area shape="rect" id="node16" href="$graphics_8c.html#a7e2b0cc913b51fb7280d37288afea828" title="Gets Screen Vertical Resolution. " alt="" coords="777,563,860,589"/>
+<area shape="rect" id="node17" href="$graphics_8c.html#a10da942fab8660c16bf62c5de687a7ff" title="getDouble_Buffer" alt="" coords="759,715,879,741"/>
+<area shape="rect" id="node20" href="$_b_m_p_loaded_8c.html#a6b1c8ecc9702d757244bdb3d4a750edc" title="Writes on a seconday buffer the Time bmp. " alt="" coords="385,715,467,741"/>
+<area shape="rect" id="node23" href="$game_8c.html#a510489ed4f730129e44cbec4a14594ff" title="Test colision between 2 Bitmaps. " alt="" coords="586,309,679,336"/>
+<area shape="rect" id="node24" href="$game_8c.html#ad3b2cb60f9a9fa32687970514f944b41" title="Handles (splits) balls in case of collision with harpoon. " alt="" coords="555,259,711,285"/>
+<area shape="rect" id="node26" href="$uart_8c.html#a0ed6808962e364bd47754b5eae906e0c" title="Read Line Status Register. " alt="" coords="576,1069,689,1096"/>
+<area shape="rect" id="node30" href="$_b_m_p_loaded_8c.html#abcd0c95195578ebc2f818a2bbfc40a27" title="Writes on a seconday buffer a &quot;Victory&quot; bmp. " alt="" coords="381,411,471,437"/>
+<area shape="rect" id="node31" href="$_b_m_p_loaded_8c.html#aec259bf1b331561bd403686eae836bc7" title="Writes on a seconday buffer the &quot;Press Esc to go Back&quot; bmp. " alt="" coords="390,461,462,488"/>
+<area shape="rect" id="node32" href="$_b_m_p_loaded_8c.html#aa731e1443c8713502c235c4d05b06edc" title="Writes on a seconday buffer a &quot;Defeat&quot; bmp. " alt="" coords="383,360,469,387"/>
+<area shape="rect" id="node34" href="$graphics_8c.html#a6f191de7e2ec7fdde3640ac9ccca8ee0" title="Gets Pointer to frame buffer. " alt="" coords="760,867,877,893"/>
+<area shape="rect" id="node38" href="$uart_8c.html#a1338cdccf0e6734a3c8b0c343b0c9850" title="Read Interrupt Identification Register. " alt="" coords="375,1120,477,1147"/>
+<area shape="rect" id="node39" href="$uart_8c.html#af36450daae0bab2381c3bcd54e728dba" title="Read Receiver Buffer Register. " alt="" coords="369,1171,483,1197"/>
+</map>

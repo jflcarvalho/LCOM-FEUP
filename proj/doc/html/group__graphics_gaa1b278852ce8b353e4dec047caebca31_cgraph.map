@@ -1,0 +1,5 @@
+<map id="drawBitmap" name="drawBitmap">
+<area shape="rect" id="node2" href="$graphics_8c.html#aa128b49ffb392eaf125b5bd3914ff857" title="Gets Screen Horizontal Resolution. " alt="" coords="161,5,244,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a7e2b0cc913b51fb7280d37288afea828" title="Gets Screen Vertical Resolution. " alt="" coords="161,56,244,83"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a6f191de7e2ec7fdde3640ac9ccca8ee0" title="Gets Pointer to frame buffer. " alt="" coords="144,107,261,133"/>
+</map>

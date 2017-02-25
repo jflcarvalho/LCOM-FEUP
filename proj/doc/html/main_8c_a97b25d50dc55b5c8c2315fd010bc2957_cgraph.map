@@ -1,0 +1,10 @@
+<map id="proc_args" name="proc_args">
+<area shape="rect" id="node2" href="$uart_8c.html#ad868f223027e684fa094e91e2f39e5af" title="Subscribes UART, handles the interruptions cycle and in the end unsubscribes UART. " alt="" coords="132,107,309,133"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a6d5cd546340ab0fa0f9fcd21ed0b1e4c" title="Subscribes UART. " alt="" coords="382,31,494,57"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a1400cb90e5ba388c2c46a2eef3b1fab3" title="Handles UART interruptions. " alt="" coords="357,81,519,108"/>
+<area shape="rect" id="node8" href="$uart_8c.html#aeab22775cdcbed20e4891cd4358e8885" title="Write a char to the Transmitter Holding Register. " alt="" coords="567,157,681,184"/>
+<area shape="rect" id="node9" href="$uart_8c.html#acc1a1b2de2dca176ab0a6334ea2b7d84" title="Unsubscribes UART. " alt="" coords="375,183,501,209"/>
+<area shape="rect" id="node5" href="$uart_8c.html#a1338cdccf0e6734a3c8b0c343b0c9850" title="Read Interrupt Identification Register. " alt="" coords="573,5,675,32"/>
+<area shape="rect" id="node6" href="$uart_8c.html#af36450daae0bab2381c3bcd54e728dba" title="Read Receiver Buffer Register. " alt="" coords="567,56,681,83"/>
+<area shape="rect" id="node7" href="$uart_8c.html#a0ed6808962e364bd47754b5eae906e0c" title="Read Line Status Register. " alt="" coords="729,107,843,133"/>
+</map>

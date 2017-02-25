@@ -1,0 +1,5 @@
+<map id="UART_Interrupt_Handler" name="UART_Interrupt_Handler">
+<area shape="rect" id="node2" href="$uart_8c.html#a1338cdccf0e6734a3c8b0c343b0c9850" title="Read Interrupt Identification Register. " alt="" coords="221,5,323,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#af36450daae0bab2381c3bcd54e728dba" title="Read Receiver Buffer Register. " alt="" coords="215,56,329,83"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a0ed6808962e364bd47754b5eae906e0c" title="Read Line Status Register. " alt="" coords="377,81,491,108"/>
+</map>

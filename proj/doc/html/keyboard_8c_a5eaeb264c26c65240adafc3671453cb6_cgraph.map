@@ -1,0 +1,4 @@
+<map id="keyboardEnable" name="keyboardEnable">
+<area shape="rect" id="node2" href="$mouse_8c.html#a282c5fb24bac63f07ccf32ed27d94b0f" title="Calls function &#39;write byte to mouse&#39; and sends command &#39;cmd&#39; to mouse,. " alt="" coords="168,5,319,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a470ea6b9a30889c37c21bcdde6976ba4" title="Reads Mouse Status Register. " alt="" coords="177,56,310,83"/>
+</map>

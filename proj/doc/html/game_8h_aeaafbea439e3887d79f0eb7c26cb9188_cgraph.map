@@ -1,0 +1,9 @@
+<map id="handleVictory" name="handleVictory">
+<area shape="rect" id="node2" href="$_b_m_p_loaded_8c.html#abcd0c95195578ebc2f818a2bbfc40a27" title="Writes on a seconday buffer a &quot;Victory&quot; bmp. " alt="" coords="155,5,245,32"/>
+<area shape="rect" id="node7" href="$_b_m_p_loaded_8c.html#aec259bf1b331561bd403686eae836bc7" title="Writes on a seconday buffer the &quot;Press Esc to go Back&quot; bmp. " alt="" coords="164,56,236,83"/>
+<area shape="rect" id="node8" href="$_b_m_p_loaded_8c.html#aa731e1443c8713502c235c4d05b06edc" title="Writes on a seconday buffer a &quot;Defeat&quot; bmp. " alt="" coords="157,107,243,133"/>
+<area shape="rect" id="node3" href="$group__graphics.html#gaf03251605457b64d0c0ec63ad66900ba" title="Writes a bitmap in a given position on the screen, but on the secondary buffer. " alt="" coords="293,81,388,108"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#aa128b49ffb392eaf125b5bd3914ff857" title="Gets Screen Horizontal Resolution. " alt="" coords="455,31,537,57"/>
+<area shape="rect" id="node5" href="$graphics_8c.html#a7e2b0cc913b51fb7280d37288afea828" title="Gets Screen Vertical Resolution. " alt="" coords="455,132,537,159"/>
+<area shape="rect" id="node6" href="$graphics_8c.html#a10da942fab8660c16bf62c5de687a7ff" title="getDouble_Buffer" alt="" coords="436,81,556,108"/>
+</map>
