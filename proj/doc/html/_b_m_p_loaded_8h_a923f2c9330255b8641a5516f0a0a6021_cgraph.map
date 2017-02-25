@@ -1,6 +1,0 @@
-<map id="drawLifes" name="drawLifes">
-<area shape="rect" id="node2" href="$group__graphics.html#gaf03251605457b64d0c0ec63ad66900ba" title="Writes a bitmap in a given position on the screen, but on the secondary buffer. " alt="" coords="129,56,224,83"/>
-<area shape="rect" id="node3" href="$graphics_8c.html#aa128b49ffb392eaf125b5bd3914ff857" title="Gets Screen Horizontal Resolution. " alt="" coords="291,5,373,32"/>
-<area shape="rect" id="node4" href="$graphics_8c.html#a7e2b0cc913b51fb7280d37288afea828" title="Gets Screen Vertical Resolution. " alt="" coords="291,56,373,83"/>
-<area shape="rect" id="node5" href="$graphics_8c.html#a10da942fab8660c16bf62c5de687a7ff" title="getDouble_Buffer" alt="" coords="272,107,392,133"/>
-</map>

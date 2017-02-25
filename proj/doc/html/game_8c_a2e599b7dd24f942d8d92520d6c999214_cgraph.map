@@ -1,4 +1,0 @@
-<map id="keyboard_Handler" name="keyboard_Handler">
-<area shape="rect" id="node2" href="$uart_8c.html#aeab22775cdcbed20e4891cd4358e8885" title="Write a char to the Transmitter Holding Register. " alt="" coords="180,5,295,32"/>
-<area shape="rect" id="node3" href="$uart_8c.html#a0ed6808962e364bd47754b5eae906e0c" title="Read Line Status Register. " alt="" coords="343,5,456,32"/>
-</map>

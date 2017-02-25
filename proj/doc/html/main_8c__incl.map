@@ -1,8 +1,0 @@
-<map id="main.c" name="main.c">
-<area shape="rect" id="node4" href="$menu_8h.html" title="menu.h" alt="" coords="261,80,327,107"/>
-<area shape="rect" id="node5" href="$_b_m_p_loaded_8h.html" title="BMPLoaded.h" alt="" coords="351,80,455,107"/>
-<area shape="rect" id="node8" href="$uart_8h.html" title="uart.h" alt="" coords="480,80,535,107"/>
-<area shape="rect" id="node9" href="$rtc_8h.html" title="rtc.h" alt="" coords="559,80,607,107"/>
-<area shape="rect" id="node6" href="$graphics_8h.html" title="graphics.h" alt="" coords="322,155,405,181"/>
-<area shape="rect" id="node7" href="$bitmap_8h.html" title="bitmap.h" alt="" coords="366,229,438,256"/>
-</map>

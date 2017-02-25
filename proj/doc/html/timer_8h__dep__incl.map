@@ -1,5 +1,0 @@
-<map id="timer.h" name="timer.h">
-<area shape="rect" id="node2" href="$game_8c.html" title="game.c" alt="" coords="5,80,71,107"/>
-<area shape="rect" id="node3" href="$menu_8c.html" title="menu.c" alt="" coords="95,80,160,107"/>
-<area shape="rect" id="node4" href="$timer_8c.html" title="timer.c" alt="" coords="184,80,247,107"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="loadRH" name="loadRH">
-<area shape="rect" id="node2" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="151,5,238,32"/>
-<area shape="rect" id="node3" href="$graphics_8c.html#a7ed2abfd3a285dc818edbc0aa7edcfb8" title="Creates a non&#45;animated Sprite. " alt="" coords="146,56,243,83"/>
-<area shape="rect" id="node4" href="$graphics_8c.html#a9127a8ddf97211c34841c3cc1063f3c0" title="create_AnimatedSprite" alt="" coords="117,107,272,133"/>
-</map>

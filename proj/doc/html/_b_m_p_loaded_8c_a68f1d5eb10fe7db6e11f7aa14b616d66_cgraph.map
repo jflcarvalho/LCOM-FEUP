@@ -1,4 +1,0 @@
-<map id="loadBall" name="loadBall">
-<area shape="rect" id="node2" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="127,5,213,32"/>
-<area shape="rect" id="node3" href="$graphics_8c.html#a7ed2abfd3a285dc818edbc0aa7edcfb8" title="Creates a non&#45;animated Sprite. " alt="" coords="121,56,219,83"/>
-</map>

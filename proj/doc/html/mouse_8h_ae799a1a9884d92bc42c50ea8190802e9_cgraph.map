@@ -1,5 +1,0 @@
-<map id="subscribeMouse" name="subscribeMouse">
-<area shape="rect" id="node2" href="$mouse_8c.html#a308b8c88934db43a6f4b1f5fcbfd6f82" title="Enables Mouse data reporting. " alt="" coords="171,31,272,57"/>
-<area shape="rect" id="node3" href="$mouse_8c.html#a282c5fb24bac63f07ccf32ed27d94b0f" title="Calls function &#39;write byte to mouse&#39; and sends command &#39;cmd&#39; to mouse,. " alt="" coords="320,5,471,32"/>
-<area shape="rect" id="node4" href="$mouse_8c.html#a470ea6b9a30889c37c21bcdde6976ba4" title="Reads Mouse Status Register. " alt="" coords="329,56,462,83"/>
-</map>
