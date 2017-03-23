@@ -1,0 +1,10 @@
+exclude:
+- /lab0/HelloWorld.c
+- /lab2/.*
+- /lab3/.*
+- /lab4/.*
+- /lab5/.*
+component_depth: 1
+languages:
+- cpp
+- script
